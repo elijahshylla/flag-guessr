@@ -1,0 +1,3333 @@
+[
+  {
+    "name": "Afghanistan",
+    "code": "af",
+    "continent": "Asia",
+    "colours": [
+      "black",
+      "red",
+      "green"
+    ],
+    "layout": "vertical",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": [
+      "coat-of-arms"
+    ]
+  },
+  {
+    "name": "Albania",
+    "code": "al",
+    "continent": "Europe",
+    "colours": [
+      "red",
+      "black"
+    ],
+    "layout": "solid",
+    "features": [],
+    "symbols": [
+      "double-headed-eagle"
+    ]
+  },
+  {
+    "name": "Algeria",
+    "code": "dz",
+    "continent": "Africa",
+    "colours": [
+      "green",
+      "white",
+      "red"
+    ],
+    "layout": "vertical",
+    "features": [
+      "bicolor"
+    ],
+    "symbols": [
+      "crescent",
+      "star"
+    ]
+  },
+  {
+    "name": "Andorra",
+    "code": "ad",
+    "continent": "Europe",
+    "colours": [
+      "blue",
+      "yellow",
+      "red"
+    ],
+    "layout": "vertical",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": [
+      "coat-of-arms"
+    ]
+  },
+  {
+    "name": "Angola",
+    "code": "ao",
+    "continent": "Africa",
+    "colours": [
+      "red",
+      "black",
+      "yellow"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "bicolor"
+    ],
+    "symbols": [
+      "machete",
+      "star",
+      "gear"
+    ]
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "code": "ag",
+    "continent": "North America",
+    "colours": [
+      "red",
+      "black",
+      "blue",
+      "white",
+      "yellow"
+    ],
+    "layout": "other",
+    "features": [
+      "triangle",
+      "chevron"
+    ],
+    "symbols": [
+      "rising-sun"
+    ]
+  },
+  {
+    "name": "Argentina",
+    "code": "ar",
+    "continent": "South America",
+    "colours": [
+      "light-blue",
+      "white",
+      "yellow"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": [
+      "sun"
+    ]
+  },
+  {
+    "name": "Armenia",
+    "code": "am",
+    "continent": "Asia",
+    "colours": [
+      "red",
+      "blue",
+      "yellow"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Australia",
+    "code": "au",
+    "continent": "Oceania",
+    "colours": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "layout": "canton",
+    "features": [
+      "stars"
+    ],
+    "symbols": [
+      "stars",
+      "union-jack"
+    ]
+  },
+  {
+    "name": "Austria",
+    "code": "at",
+    "continent": "Europe",
+    "colours": [
+      "red",
+      "white"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "bicolor",
+      "stripes"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Azerbaijan",
+    "code": "az",
+    "continent": "Asia",
+    "colours": [
+      "blue",
+      "red",
+      "green",
+      "white"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": [
+      "crescent",
+      "star"
+    ]
+  },
+  {
+    "name": "Bahamas",
+    "code": "bs",
+    "continent": "North America",
+    "colours": [
+      "blue",
+      "yellow",
+      "black"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes",
+      "triangle"
+    ],
+    "symbols": [
+      "triangle"
+    ]
+  },
+  {
+    "name": "Bahrain",
+    "code": "bh",
+    "continent": "Asia",
+    "colours": [
+      "red",
+      "white"
+    ],
+    "layout": "vertical",
+    "features": [
+      "bicolor",
+      "serration"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Bangladesh",
+    "code": "bd",
+    "continent": "Asia",
+    "colours": [
+      "green",
+      "red"
+    ],
+    "layout": "solid",
+    "features": [
+      "circle"
+    ],
+    "symbols": [
+      "disc"
+    ]
+  },
+  {
+    "name": "Barbados",
+    "code": "bb",
+    "continent": "North America",
+    "colours": [
+      "blue",
+      "yellow",
+      "black"
+    ],
+    "layout": "vertical",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": [
+      "trident"
+    ]
+  },
+  {
+    "name": "Belarus",
+    "code": "by",
+    "continent": "Europe",
+    "colours": [
+      "red",
+      "green",
+      "white"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes",
+      "ornament"
+    ],
+    "symbols": [
+      "ornamental-pattern"
+    ]
+  },
+  {
+    "name": "Belgium",
+    "code": "be",
+    "continent": "Europe",
+    "colours": [
+      "black",
+      "yellow",
+      "red"
+    ],
+    "layout": "vertical",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Belize",
+    "code": "bz",
+    "continent": "North America",
+    "colours": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "layout": "solid",
+    "features": [],
+    "symbols": [
+      "coat-of-arms"
+    ]
+  },
+  {
+    "name": "Benin",
+    "code": "bj",
+    "continent": "Africa",
+    "colours": [
+      "green",
+      "yellow",
+      "red"
+    ],
+    "layout": "other",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Bhutan",
+    "code": "bt",
+    "continent": "Asia",
+    "colours": [
+      "yellow",
+      "orange",
+      "white"
+    ],
+    "layout": "diagonal",
+    "features": [
+      "diagonal"
+    ],
+    "symbols": [
+      "dragon"
+    ]
+  },
+  {
+    "name": "Bolivia",
+    "code": "bo",
+    "continent": "South America",
+    "colours": [
+      "red",
+      "yellow",
+      "green"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "code": "ba",
+    "continent": "Europe",
+    "colours": [
+      "blue",
+      "yellow",
+      "white"
+    ],
+    "layout": "diagonal",
+    "features": [
+      "triangle",
+      "stars"
+    ],
+    "symbols": [
+      "stars"
+    ]
+  },
+  {
+    "name": "Botswana",
+    "code": "bw",
+    "continent": "Africa",
+    "colours": [
+      "light-blue",
+      "black",
+      "white"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Brazil",
+    "code": "br",
+    "continent": "South America",
+    "colours": [
+      "green",
+      "yellow",
+      "blue",
+      "white"
+    ],
+    "layout": "other",
+    "features": [
+      "diamond",
+      "circle"
+    ],
+    "symbols": [
+      "stars",
+      "globe"
+    ]
+  },
+  {
+    "name": "Brunei",
+    "code": "bn",
+    "continent": "Asia",
+    "colours": [
+      "yellow",
+      "white",
+      "black",
+      "red"
+    ],
+    "layout": "diagonal",
+    "features": [
+      "diagonal"
+    ],
+    "symbols": [
+      "coat-of-arms"
+    ]
+  },
+  {
+    "name": "Bulgaria",
+    "code": "bg",
+    "continent": "Europe",
+    "colours": [
+      "white",
+      "green",
+      "red"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Burkina Faso",
+    "code": "bf",
+    "continent": "Africa",
+    "colours": [
+      "red",
+      "green",
+      "yellow"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "bicolor"
+    ],
+    "symbols": [
+      "star"
+    ]
+  },
+  {
+    "name": "Burundi",
+    "code": "bi",
+    "continent": "Africa",
+    "colours": [
+      "red",
+      "white",
+      "green"
+    ],
+    "layout": "diagonal",
+    "features": [
+      "cross",
+      "triangle"
+    ],
+    "symbols": [
+      "stars"
+    ]
+  },
+  {
+    "name": "Cabo Verde",
+    "code": "cv",
+    "continent": "Africa",
+    "colours": [
+      "blue",
+      "white",
+      "red",
+      "yellow"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes",
+      "circle"
+    ],
+    "symbols": [
+      "stars"
+    ]
+  },
+  {
+    "name": "Cambodia",
+    "code": "kh",
+    "continent": "Asia",
+    "colours": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes"
+    ],
+    "symbols": [
+      "temple"
+    ]
+  },
+  {
+    "name": "Cameroon",
+    "code": "cm",
+    "continent": "Africa",
+    "colours": [
+      "green",
+      "red",
+      "yellow"
+    ],
+    "layout": "vertical",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": [
+      "star"
+    ]
+  },
+  {
+    "name": "Canada",
+    "code": "ca",
+    "continent": "North America",
+    "colours": [
+      "red",
+      "white"
+    ],
+    "layout": "vertical",
+    "features": [],
+    "symbols": [
+      "maple-leaf"
+    ]
+  },
+  {
+    "name": "Central African Republic",
+    "code": "cf",
+    "continent": "Africa",
+    "colours": [
+      "blue",
+      "white",
+      "green",
+      "yellow",
+      "red"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes"
+    ],
+    "symbols": [
+      "star"
+    ]
+  },
+  {
+    "name": "Chad",
+    "code": "td",
+    "continent": "Africa",
+    "colours": [
+      "blue",
+      "yellow",
+      "red"
+    ],
+    "layout": "vertical",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Chile",
+    "code": "cl",
+    "continent": "South America",
+    "colours": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes",
+      "canton"
+    ],
+    "symbols": [
+      "star"
+    ]
+  },
+  {
+    "name": "China",
+    "code": "cn",
+    "continent": "Asia",
+    "colours": [
+      "red",
+      "yellow"
+    ],
+    "layout": "solid",
+    "features": [],
+    "symbols": [
+      "stars"
+    ]
+  },
+  {
+    "name": "Colombia",
+    "code": "co",
+    "continent": "South America",
+    "colours": [
+      "yellow",
+      "blue",
+      "red"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Comoros",
+    "code": "km",
+    "continent": "Africa",
+    "colours": [
+      "green",
+      "white",
+      "red",
+      "yellow",
+      "blue"
+    ],
+    "layout": "other",
+    "features": [
+      "stripes",
+      "triangle"
+    ],
+    "symbols": [
+      "crescent",
+      "stars"
+    ]
+  },
+  {
+    "name": "Congo",
+    "code": "cg",
+    "continent": "Africa",
+    "colours": [
+      "green",
+      "yellow",
+      "red"
+    ],
+    "layout": "diagonal",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Costa Rica",
+    "code": "cr",
+    "continent": "North America",
+    "colours": [
+      "blue",
+      "white",
+      "red"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes"
+    ],
+    "symbols": [
+      "coat-of-arms"
+    ]
+  },
+  {
+    "name": "Croatia",
+    "code": "hr",
+    "continent": "Europe",
+    "colours": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": [
+      "coat-of-arms"
+    ]
+  },
+  {
+    "name": "Cuba",
+    "code": "cu",
+    "continent": "North America",
+    "colours": [
+      "blue",
+      "white",
+      "red"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes",
+      "triangle"
+    ],
+    "symbols": [
+      "star"
+    ]
+  },
+  {
+    "name": "Cyprus",
+    "code": "cy",
+    "continent": "Asia",
+    "colours": [
+      "white",
+      "orange",
+      "green"
+    ],
+    "layout": "solid",
+    "features": [],
+    "symbols": [
+      "map-outline",
+      "olive-branches"
+    ]
+  },
+  {
+    "name": "Czechia",
+    "code": "cz",
+    "continent": "Europe",
+    "colours": [
+      "white",
+      "red",
+      "blue"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "bicolor",
+      "triangle"
+    ],
+    "symbols": [
+      "triangle"
+    ]
+  },
+  {
+    "name": "Democratic Republic of the Congo",
+    "code": "cd",
+    "continent": "Africa",
+    "colours": [
+      "blue",
+      "red",
+      "yellow"
+    ],
+    "layout": "diagonal",
+    "features": [
+      "diagonal"
+    ],
+    "symbols": [
+      "star"
+    ]
+  },
+  {
+    "name": "Denmark",
+    "code": "dk",
+    "continent": "Europe",
+    "colours": [
+      "red",
+      "white"
+    ],
+    "layout": "cross",
+    "features": [
+      "nordic-cross"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Djibouti",
+    "code": "dj",
+    "continent": "Africa",
+    "colours": [
+      "light-blue",
+      "green",
+      "white",
+      "red"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes",
+      "triangle"
+    ],
+    "symbols": [
+      "star"
+    ]
+  },
+  {
+    "name": "Dominica",
+    "code": "dm",
+    "continent": "North America",
+    "colours": [
+      "green",
+      "red",
+      "yellow",
+      "black",
+      "white"
+    ],
+    "layout": "solid",
+    "features": [
+      "cross",
+      "circle"
+    ],
+    "symbols": [
+      "parrot",
+      "stars"
+    ]
+  },
+  {
+    "name": "Dominican Republic",
+    "code": "do",
+    "continent": "North America",
+    "colours": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "layout": "cross",
+    "features": [
+      "cross"
+    ],
+    "symbols": [
+      "coat-of-arms"
+    ]
+  },
+  {
+    "name": "Ecuador",
+    "code": "ec",
+    "continent": "South America",
+    "colours": [
+      "yellow",
+      "blue",
+      "red"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": [
+      "coat-of-arms"
+    ]
+  },
+  {
+    "name": "Egypt",
+    "code": "eg",
+    "continent": "Africa",
+    "colours": [
+      "red",
+      "white",
+      "black",
+      "yellow"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": [
+      "eagle"
+    ]
+  },
+  {
+    "name": "El Salvador",
+    "code": "sv",
+    "continent": "North America",
+    "colours": [
+      "blue",
+      "white"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes"
+    ],
+    "symbols": [
+      "coat-of-arms"
+    ]
+  },
+  {
+    "name": "Equatorial Guinea",
+    "code": "gq",
+    "continent": "Africa",
+    "colours": [
+      "green",
+      "white",
+      "red",
+      "blue"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes",
+      "triangle"
+    ],
+    "symbols": [
+      "coat-of-arms"
+    ]
+  },
+  {
+    "name": "Eritrea",
+    "code": "er",
+    "continent": "Africa",
+    "colours": [
+      "red",
+      "green",
+      "blue",
+      "yellow"
+    ],
+    "layout": "diagonal",
+    "features": [
+      "triangle"
+    ],
+    "symbols": [
+      "olive-branch"
+    ]
+  },
+  {
+    "name": "Estonia",
+    "code": "ee",
+    "continent": "Europe",
+    "colours": [
+      "blue",
+      "black",
+      "white"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Eswatini",
+    "code": "sz",
+    "continent": "Africa",
+    "colours": [
+      "blue",
+      "red",
+      "yellow",
+      "black",
+      "white"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes"
+    ],
+    "symbols": [
+      "shield",
+      "spears"
+    ]
+  },
+  {
+    "name": "Ethiopia",
+    "code": "et",
+    "continent": "Africa",
+    "colours": [
+      "green",
+      "yellow",
+      "red",
+      "blue"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "tricolor",
+      "circle"
+    ],
+    "symbols": [
+      "star"
+    ]
+  },
+  {
+    "name": "Fiji",
+    "code": "fj",
+    "continent": "Oceania",
+    "colours": [
+      "light-blue",
+      "red",
+      "white"
+    ],
+    "layout": "canton",
+    "features": [
+      "canton"
+    ],
+    "symbols": [
+      "union-jack",
+      "shield"
+    ]
+  },
+  {
+    "name": "Finland",
+    "code": "fi",
+    "continent": "Europe",
+    "colours": [
+      "white",
+      "blue"
+    ],
+    "layout": "cross",
+    "features": [
+      "nordic-cross"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "France",
+    "code": "fr",
+    "continent": "Europe",
+    "colours": [
+      "blue",
+      "white",
+      "red"
+    ],
+    "layout": "vertical",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Gabon",
+    "code": "ga",
+    "continent": "Africa",
+    "colours": [
+      "green",
+      "yellow",
+      "blue"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Gambia",
+    "code": "gm",
+    "continent": "Africa",
+    "colours": [
+      "red",
+      "blue",
+      "green",
+      "white"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Georgia",
+    "code": "ge",
+    "continent": "Asia",
+    "colours": [
+      "white",
+      "red"
+    ],
+    "layout": "cross",
+    "features": [
+      "cross"
+    ],
+    "symbols": [
+      "five-crosses"
+    ]
+  },
+  {
+    "name": "Germany",
+    "code": "de",
+    "continent": "Europe",
+    "colours": [
+      "black",
+      "red",
+      "yellow"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Ghana",
+    "code": "gh",
+    "continent": "Africa",
+    "colours": [
+      "red",
+      "yellow",
+      "green",
+      "black"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": [
+      "star"
+    ]
+  },
+  {
+    "name": "Greece",
+    "code": "gr",
+    "continent": "Europe",
+    "colours": [
+      "blue",
+      "white"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes",
+      "canton"
+    ],
+    "symbols": [
+      "cross"
+    ]
+  },
+  {
+    "name": "Grenada",
+    "code": "gd",
+    "continent": "North America",
+    "colours": [
+      "red",
+      "yellow",
+      "green"
+    ],
+    "layout": "other",
+    "features": [
+      "border",
+      "stars"
+    ],
+    "symbols": [
+      "nutmeg",
+      "stars"
+    ]
+  },
+  {
+    "name": "Guatemala",
+    "code": "gt",
+    "continent": "North America",
+    "colours": [
+      "light-blue",
+      "white",
+      "green",
+      "brown"
+    ],
+    "layout": "vertical",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": [
+      "quetzal",
+      "coat-of-arms"
+    ]
+  },
+  {
+    "name": "Guinea",
+    "code": "gn",
+    "continent": "Africa",
+    "colours": [
+      "red",
+      "yellow",
+      "green"
+    ],
+    "layout": "vertical",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Guinea-Bissau",
+    "code": "gw",
+    "continent": "Africa",
+    "colours": [
+      "red",
+      "yellow",
+      "green",
+      "black"
+    ],
+    "layout": "other",
+    "features": [
+      "stripes",
+      "triangle"
+    ],
+    "symbols": [
+      "star"
+    ]
+  },
+  {
+    "name": "Guyana",
+    "code": "gy",
+    "continent": "South America",
+    "colours": [
+      "green",
+      "yellow",
+      "white",
+      "red",
+      "black"
+    ],
+    "layout": "other",
+    "features": [
+      "triangle"
+    ],
+    "symbols": [
+      "triangles"
+    ]
+  },
+  {
+    "name": "Haiti",
+    "code": "ht",
+    "continent": "North America",
+    "colours": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "bicolor"
+    ],
+    "symbols": [
+      "coat-of-arms"
+    ]
+  },
+  {
+    "name": "Honduras",
+    "code": "hn",
+    "continent": "North America",
+    "colours": [
+      "blue",
+      "white"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "bicolor",
+      "stripes"
+    ],
+    "symbols": [
+      "stars"
+    ]
+  },
+  {
+    "name": "Hungary",
+    "code": "hu",
+    "continent": "Europe",
+    "colours": [
+      "red",
+      "white",
+      "green"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Iceland",
+    "code": "is",
+    "continent": "Europe",
+    "colours": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "layout": "cross",
+    "features": [
+      "nordic-cross"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "India",
+    "code": "in",
+    "continent": "Asia",
+    "colours": [
+      "orange",
+      "white",
+      "green",
+      "blue"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "tricolor",
+      "circle"
+    ],
+    "symbols": [
+      "chakra"
+    ]
+  },
+  {
+    "name": "Indonesia",
+    "code": "id",
+    "continent": "Asia",
+    "colours": [
+      "red",
+      "white"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "bicolor"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Iran",
+    "code": "ir",
+    "continent": "Asia",
+    "colours": [
+      "green",
+      "white",
+      "red"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": [
+      "iranian-emblem",
+      "takbir"
+    ]
+  },
+  {
+    "name": "Iraq",
+    "code": "iq",
+    "continent": "Asia",
+    "colours": [
+      "red",
+      "white",
+      "black",
+      "green"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": [
+      "takbir"
+    ]
+  },
+  {
+    "name": "Ireland",
+    "code": "ie",
+    "continent": "Europe",
+    "colours": [
+      "green",
+      "white",
+      "orange"
+    ],
+    "layout": "vertical",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Israel",
+    "code": "il",
+    "continent": "Asia",
+    "colours": [
+      "white",
+      "blue"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes"
+    ],
+    "symbols": [
+      "star-of-david"
+    ]
+  },
+  {
+    "name": "Italy",
+    "code": "it",
+    "continent": "Europe",
+    "colours": [
+      "green",
+      "white",
+      "red"
+    ],
+    "layout": "vertical",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Ivory Coast",
+    "code": "ci",
+    "continent": "Africa",
+    "colours": [
+      "orange",
+      "white",
+      "green"
+    ],
+    "layout": "vertical",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Jamaica",
+    "code": "jm",
+    "continent": "North America",
+    "colours": [
+      "black",
+      "green",
+      "yellow"
+    ],
+    "layout": "other",
+    "features": [
+      "saltire"
+    ],
+    "symbols": [
+      "saltire"
+    ]
+  },
+  {
+    "name": "Japan",
+    "code": "jp",
+    "continent": "Asia",
+    "colours": [
+      "white",
+      "red"
+    ],
+    "layout": "solid",
+    "features": [
+      "circle"
+    ],
+    "symbols": [
+      "sun-disc"
+    ]
+  },
+  {
+    "name": "Jordan",
+    "code": "jo",
+    "continent": "Asia",
+    "colours": [
+      "black",
+      "white",
+      "green",
+      "red"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes",
+      "triangle"
+    ],
+    "symbols": [
+      "star"
+    ]
+  },
+  {
+    "name": "Kazakhstan",
+    "code": "kz",
+    "continent": "Asia",
+    "colours": [
+      "light-blue",
+      "yellow"
+    ],
+    "layout": "solid",
+    "features": [],
+    "symbols": [
+      "sun",
+      "eagle",
+      "ornament"
+    ]
+  },
+  {
+    "name": "Kenya",
+    "code": "ke",
+    "continent": "Africa",
+    "colours": [
+      "black",
+      "red",
+      "green",
+      "white"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes"
+    ],
+    "symbols": [
+      "shield",
+      "spears"
+    ]
+  },
+  {
+    "name": "Kiribati",
+    "code": "ki",
+    "continent": "Oceania",
+    "colours": [
+      "red",
+      "blue",
+      "white",
+      "yellow"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "waves"
+    ],
+    "symbols": [
+      "frigatebird",
+      "sun"
+    ]
+  },
+  {
+    "name": "Kuwait",
+    "code": "kw",
+    "continent": "Asia",
+    "colours": [
+      "green",
+      "white",
+      "red",
+      "black"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes",
+      "triangle"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Kyrgyzstan",
+    "code": "kg",
+    "continent": "Asia",
+    "colours": [
+      "red",
+      "yellow"
+    ],
+    "layout": "solid",
+    "features": [
+      "circle"
+    ],
+    "symbols": [
+      "sun",
+      "tunduk"
+    ]
+  },
+  {
+    "name": "Laos",
+    "code": "la",
+    "continent": "Asia",
+    "colours": [
+      "red",
+      "blue",
+      "white"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes",
+      "circle"
+    ],
+    "symbols": [
+      "disc"
+    ]
+  },
+  {
+    "name": "Latvia",
+    "code": "lv",
+    "continent": "Europe",
+    "colours": [
+      "maroon",
+      "white"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Lebanon",
+    "code": "lb",
+    "continent": "Asia",
+    "colours": [
+      "red",
+      "white",
+      "green"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes"
+    ],
+    "symbols": [
+      "cedar"
+    ]
+  },
+  {
+    "name": "Lesotho",
+    "code": "ls",
+    "continent": "Africa",
+    "colours": [
+      "blue",
+      "white",
+      "green",
+      "black"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes"
+    ],
+    "symbols": [
+      "hat"
+    ]
+  },
+  {
+    "name": "Liberia",
+    "code": "lr",
+    "continent": "Africa",
+    "colours": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes",
+      "canton"
+    ],
+    "symbols": [
+      "star"
+    ]
+  },
+  {
+    "name": "Libya",
+    "code": "ly",
+    "continent": "Africa",
+    "colours": [
+      "red",
+      "black",
+      "green",
+      "white"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes"
+    ],
+    "symbols": [
+      "crescent",
+      "star"
+    ]
+  },
+  {
+    "name": "Liechtenstein",
+    "code": "li",
+    "continent": "Europe",
+    "colours": [
+      "blue",
+      "red",
+      "yellow"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "bicolor"
+    ],
+    "symbols": [
+      "crown"
+    ]
+  },
+  {
+    "name": "Lithuania",
+    "code": "lt",
+    "continent": "Europe",
+    "colours": [
+      "yellow",
+      "green",
+      "red"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Luxembourg",
+    "code": "lu",
+    "continent": "Europe",
+    "colours": [
+      "red",
+      "white",
+      "light-blue"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Madagascar",
+    "code": "mg",
+    "continent": "Africa",
+    "colours": [
+      "white",
+      "red",
+      "green"
+    ],
+    "layout": "other",
+    "features": [
+      "bicolor",
+      "vertical"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Malawi",
+    "code": "mw",
+    "continent": "Africa",
+    "colours": [
+      "black",
+      "red",
+      "green"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes"
+    ],
+    "symbols": [
+      "sun"
+    ]
+  },
+  {
+    "name": "Malaysia",
+    "code": "my",
+    "continent": "Asia",
+    "colours": [
+      "red",
+      "white",
+      "blue",
+      "yellow"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes",
+      "canton"
+    ],
+    "symbols": [
+      "crescent",
+      "star"
+    ]
+  },
+  {
+    "name": "Maldives",
+    "code": "mv",
+    "continent": "Asia",
+    "colours": [
+      "red",
+      "green",
+      "white"
+    ],
+    "layout": "solid",
+    "features": [
+      "rectangle"
+    ],
+    "symbols": [
+      "crescent"
+    ]
+  },
+  {
+    "name": "Mali",
+    "code": "ml",
+    "continent": "Africa",
+    "colours": [
+      "green",
+      "yellow",
+      "red"
+    ],
+    "layout": "vertical",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Malta",
+    "code": "mt",
+    "continent": "Europe",
+    "colours": [
+      "white",
+      "red"
+    ],
+    "layout": "vertical",
+    "features": [
+      "bicolor"
+    ],
+    "symbols": [
+      "george-cross"
+    ]
+  },
+  {
+    "name": "Marshall Islands",
+    "code": "mh",
+    "continent": "Oceania",
+    "colours": [
+      "light-blue",
+      "white",
+      "orange"
+    ],
+    "layout": "other",
+    "features": [
+      "diagonal",
+      "star"
+    ],
+    "symbols": [
+      "star"
+    ]
+  },
+  {
+    "name": "Mauritania",
+    "code": "mr",
+    "continent": "Africa",
+    "colours": [
+      "green",
+      "yellow",
+      "red"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes"
+    ],
+    "symbols": [
+      "crescent",
+      "star"
+    ]
+  },
+  {
+    "name": "Mauritius",
+    "code": "mu",
+    "continent": "Africa",
+    "colours": [
+      "red",
+      "blue",
+      "yellow",
+      "green"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Mexico",
+    "code": "mx",
+    "continent": "North America",
+    "colours": [
+      "green",
+      "white",
+      "red",
+      "brown"
+    ],
+    "layout": "vertical",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": [
+      "eagle",
+      "snake",
+      "cactus"
+    ]
+  },
+  {
+    "name": "Micronesia",
+    "code": "fm",
+    "continent": "Oceania",
+    "colours": [
+      "light-blue",
+      "white"
+    ],
+    "layout": "solid",
+    "features": [
+      "stars"
+    ],
+    "symbols": [
+      "four-stars"
+    ]
+  },
+  {
+    "name": "Moldova",
+    "code": "md",
+    "continent": "Europe",
+    "colours": [
+      "blue",
+      "yellow",
+      "red"
+    ],
+    "layout": "vertical",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": [
+      "eagle",
+      "shield"
+    ]
+  },
+  {
+    "name": "Monaco",
+    "code": "mc",
+    "continent": "Europe",
+    "colours": [
+      "red",
+      "white"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "bicolor"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Mongolia",
+    "code": "mn",
+    "continent": "Asia",
+    "colours": [
+      "red",
+      "blue",
+      "yellow"
+    ],
+    "layout": "vertical",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": [
+      "soyombo"
+    ]
+  },
+  {
+    "name": "Montenegro",
+    "code": "me",
+    "continent": "Europe",
+    "colours": [
+      "red",
+      "yellow"
+    ],
+    "layout": "solid",
+    "features": [
+      "border"
+    ],
+    "symbols": [
+      "coat-of-arms"
+    ]
+  },
+  {
+    "name": "Morocco",
+    "code": "ma",
+    "continent": "Africa",
+    "colours": [
+      "red",
+      "green"
+    ],
+    "layout": "solid",
+    "features": [],
+    "symbols": [
+      "pentagram"
+    ]
+  },
+  {
+    "name": "Mozambique",
+    "code": "mz",
+    "continent": "Africa",
+    "colours": [
+      "green",
+      "black",
+      "yellow",
+      "white",
+      "red"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes",
+      "triangle"
+    ],
+    "symbols": [
+      "star",
+      "book",
+      "rifle",
+      "hoe"
+    ]
+  },
+  {
+    "name": "Myanmar",
+    "code": "mm",
+    "continent": "Asia",
+    "colours": [
+      "yellow",
+      "green",
+      "red",
+      "white"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": [
+      "star"
+    ]
+  },
+  {
+    "name": "Namibia",
+    "code": "na",
+    "continent": "Africa",
+    "colours": [
+      "blue",
+      "red",
+      "green",
+      "white",
+      "yellow"
+    ],
+    "layout": "diagonal",
+    "features": [
+      "diagonal"
+    ],
+    "symbols": [
+      "sun"
+    ]
+  },
+  {
+    "name": "Nauru",
+    "code": "nr",
+    "continent": "Oceania",
+    "colours": [
+      "blue",
+      "yellow",
+      "white"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes"
+    ],
+    "symbols": [
+      "star"
+    ]
+  },
+  {
+    "name": "Nepal",
+    "code": "np",
+    "continent": "Asia",
+    "colours": [
+      "red",
+      "blue",
+      "white"
+    ],
+    "layout": "other",
+    "features": [
+      "double-pennant"
+    ],
+    "symbols": [
+      "sun",
+      "moon"
+    ]
+  },
+  {
+    "name": "Netherlands",
+    "code": "nl",
+    "continent": "Europe",
+    "colours": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "New Zealand",
+    "code": "nz",
+    "continent": "Oceania",
+    "colours": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "layout": "canton",
+    "features": [
+      "canton",
+      "stars"
+    ],
+    "symbols": [
+      "union-jack",
+      "four-stars"
+    ]
+  },
+  {
+    "name": "Nicaragua",
+    "code": "ni",
+    "continent": "North America",
+    "colours": [
+      "blue",
+      "white"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes"
+    ],
+    "symbols": [
+      "coat-of-arms"
+    ]
+  },
+  {
+    "name": "Niger",
+    "code": "ne",
+    "continent": "Africa",
+    "colours": [
+      "orange",
+      "white",
+      "green"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "tricolor",
+      "circle"
+    ],
+    "symbols": [
+      "disc"
+    ]
+  },
+  {
+    "name": "Nigeria",
+    "code": "ng",
+    "continent": "Africa",
+    "colours": [
+      "green",
+      "white"
+    ],
+    "layout": "vertical",
+    "features": [
+      "bicolor",
+      "stripes"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "North Korea",
+    "code": "kp",
+    "continent": "Asia",
+    "colours": [
+      "red",
+      "blue",
+      "white"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes",
+      "circle"
+    ],
+    "symbols": [
+      "star"
+    ]
+  },
+  {
+    "name": "North Macedonia",
+    "code": "mk",
+    "continent": "Europe",
+    "colours": [
+      "red",
+      "yellow"
+    ],
+    "layout": "solid",
+    "features": [
+      "rays",
+      "circle"
+    ],
+    "symbols": [
+      "sun"
+    ]
+  },
+  {
+    "name": "Norway",
+    "code": "no",
+    "continent": "Europe",
+    "colours": [
+      "red",
+      "blue",
+      "white"
+    ],
+    "layout": "cross",
+    "features": [
+      "nordic-cross"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Oman",
+    "code": "om",
+    "continent": "Asia",
+    "colours": [
+      "white",
+      "red",
+      "green"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes",
+      "canton"
+    ],
+    "symbols": [
+      "khānjar"
+    ]
+  },
+  {
+    "name": "Pakistan",
+    "code": "pk",
+    "continent": "Asia",
+    "colours": [
+      "green",
+      "white"
+    ],
+    "layout": "solid",
+    "features": [],
+    "symbols": [
+      "crescent",
+      "star"
+    ]
+  },
+  {
+    "name": "Palau",
+    "code": "pw",
+    "continent": "Oceania",
+    "colours": [
+      "light-blue",
+      "yellow"
+    ],
+    "layout": "solid",
+    "features": [
+      "circle"
+    ],
+    "symbols": [
+      "disc"
+    ]
+  },
+  {
+    "name": "Palestine",
+    "code": "ps",
+    "continent": "Asia",
+    "colours": [
+      "black",
+      "white",
+      "green",
+      "red"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes",
+      "triangle"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Panama",
+    "code": "pa",
+    "continent": "North America",
+    "colours": [
+      "white",
+      "red",
+      "blue"
+    ],
+    "layout": "quartered",
+    "features": [
+      "quarters",
+      "stars"
+    ],
+    "symbols": [
+      "two-stars"
+    ]
+  },
+  {
+    "name": "Papua New Guinea",
+    "code": "pg",
+    "continent": "Oceania",
+    "colours": [
+      "black",
+      "red",
+      "yellow",
+      "white"
+    ],
+    "layout": "diagonal",
+    "features": [
+      "diagonal"
+    ],
+    "symbols": [
+      "bird-of-paradise",
+      "southern-cross"
+    ]
+  },
+  {
+    "name": "Paraguay",
+    "code": "py",
+    "continent": "South America",
+    "colours": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": [
+      "coat-of-arms"
+    ]
+  },
+  {
+    "name": "Peru",
+    "code": "pe",
+    "continent": "South America",
+    "colours": [
+      "red",
+      "white"
+    ],
+    "layout": "vertical",
+    "features": [
+      "bicolor",
+      "stripes"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Philippines",
+    "code": "ph",
+    "continent": "Asia",
+    "colours": [
+      "blue",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "triangle",
+      "stars"
+    ],
+    "symbols": [
+      "sun",
+      "three-stars"
+    ]
+  },
+  {
+    "name": "Poland",
+    "code": "pl",
+    "continent": "Europe",
+    "colours": [
+      "white",
+      "red"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "bicolor"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Portugal",
+    "code": "pt",
+    "continent": "Europe",
+    "colours": [
+      "green",
+      "red",
+      "yellow"
+    ],
+    "layout": "vertical",
+    "features": [
+      "bicolor"
+    ],
+    "symbols": [
+      "armillary-sphere",
+      "shield"
+    ]
+  },
+  {
+    "name": "Qatar",
+    "code": "qa",
+    "continent": "Asia",
+    "colours": [
+      "maroon",
+      "white"
+    ],
+    "layout": "vertical",
+    "features": [
+      "bicolor",
+      "serration"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Romania",
+    "code": "ro",
+    "continent": "Europe",
+    "colours": [
+      "blue",
+      "yellow",
+      "red"
+    ],
+    "layout": "vertical",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Russia",
+    "code": "ru",
+    "continent": "Europe",
+    "colours": [
+      "white",
+      "blue",
+      "red"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Rwanda",
+    "code": "rw",
+    "continent": "Africa",
+    "colours": [
+      "blue",
+      "yellow",
+      "green"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes"
+    ],
+    "symbols": [
+      "sun"
+    ]
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "code": "kn",
+    "continent": "North America",
+    "colours": [
+      "green",
+      "red",
+      "black",
+      "yellow",
+      "white"
+    ],
+    "layout": "diagonal",
+    "features": [
+      "diagonal",
+      "stars"
+    ],
+    "symbols": [
+      "two-stars"
+    ]
+  },
+  {
+    "name": "Saint Lucia",
+    "code": "lc",
+    "continent": "North America",
+    "colours": [
+      "light-blue",
+      "black",
+      "white",
+      "yellow"
+    ],
+    "layout": "solid",
+    "features": [
+      "triangle"
+    ],
+    "symbols": [
+      "triangles"
+    ]
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "code": "vc",
+    "continent": "North America",
+    "colours": [
+      "blue",
+      "yellow",
+      "green"
+    ],
+    "layout": "vertical",
+    "features": [
+      "tricolor",
+      "diamond"
+    ],
+    "symbols": [
+      "three-diamonds"
+    ]
+  },
+  {
+    "name": "Samoa",
+    "code": "ws",
+    "continent": "Oceania",
+    "colours": [
+      "red",
+      "blue",
+      "white"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "canton",
+      "stars"
+    ],
+    "symbols": [
+      "southern-cross"
+    ]
+  },
+  {
+    "name": "San Marino",
+    "code": "sm",
+    "continent": "Europe",
+    "colours": [
+      "white",
+      "light-blue",
+      "green",
+      "yellow"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "bicolor"
+    ],
+    "symbols": [
+      "coat-of-arms"
+    ]
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "code": "st",
+    "continent": "Africa",
+    "colours": [
+      "green",
+      "yellow",
+      "red",
+      "black"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes",
+      "triangle"
+    ],
+    "symbols": [
+      "two-stars"
+    ]
+  },
+  {
+    "name": "Saudi Arabia",
+    "code": "sa",
+    "continent": "Asia",
+    "colours": [
+      "green",
+      "white"
+    ],
+    "layout": "solid",
+    "features": [
+      "text"
+    ],
+    "symbols": [
+      "sword",
+      "arabic-script"
+    ]
+  },
+  {
+    "name": "Senegal",
+    "code": "sn",
+    "continent": "Africa",
+    "colours": [
+      "green",
+      "yellow",
+      "red"
+    ],
+    "layout": "vertical",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": [
+      "star"
+    ]
+  },
+  {
+    "name": "Serbia",
+    "code": "rs",
+    "continent": "Europe",
+    "colours": [
+      "red",
+      "blue",
+      "white",
+      "yellow"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": [
+      "coat-of-arms"
+    ]
+  },
+  {
+    "name": "Seychelles",
+    "code": "sc",
+    "continent": "Africa",
+    "colours": [
+      "blue",
+      "yellow",
+      "red",
+      "white",
+      "green"
+    ],
+    "layout": "diagonal",
+    "features": [
+      "diagonal-stripes"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Sierra Leone",
+    "code": "sl",
+    "continent": "Africa",
+    "colours": [
+      "green",
+      "white",
+      "blue"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Singapore",
+    "code": "sg",
+    "continent": "Asia",
+    "colours": [
+      "red",
+      "white"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "bicolor",
+      "canton"
+    ],
+    "symbols": [
+      "crescent",
+      "stars"
+    ]
+  },
+  {
+    "name": "Slovakia",
+    "code": "sk",
+    "continent": "Europe",
+    "colours": [
+      "white",
+      "blue",
+      "red"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": [
+      "coat-of-arms"
+    ]
+  },
+  {
+    "name": "Slovenia",
+    "code": "si",
+    "continent": "Europe",
+    "colours": [
+      "white",
+      "blue",
+      "red"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": [
+      "coat-of-arms"
+    ]
+  },
+  {
+    "name": "Solomon Islands",
+    "code": "sb",
+    "continent": "Oceania",
+    "colours": [
+      "blue",
+      "green",
+      "yellow",
+      "white"
+    ],
+    "layout": "diagonal",
+    "features": [
+      "diagonal",
+      "stars"
+    ],
+    "symbols": [
+      "five-stars"
+    ]
+  },
+  {
+    "name": "Somalia",
+    "code": "so",
+    "continent": "Africa",
+    "colours": [
+      "light-blue",
+      "white"
+    ],
+    "layout": "solid",
+    "features": [
+      "star"
+    ],
+    "symbols": [
+      "star"
+    ]
+  },
+  {
+    "name": "South Africa",
+    "code": "za",
+    "continent": "Africa",
+    "colours": [
+      "red",
+      "blue",
+      "green",
+      "yellow",
+      "black",
+      "white"
+    ],
+    "layout": "other",
+    "features": [
+      "y-shape"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "South Korea",
+    "code": "kr",
+    "continent": "Asia",
+    "colours": [
+      "white",
+      "red",
+      "blue",
+      "black"
+    ],
+    "layout": "solid",
+    "features": [
+      "circle"
+    ],
+    "symbols": [
+      "taegeuk",
+      "trigrams"
+    ]
+  },
+  {
+    "name": "South Sudan",
+    "code": "ss",
+    "continent": "Africa",
+    "colours": [
+      "black",
+      "red",
+      "green",
+      "blue",
+      "white",
+      "yellow"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes",
+      "triangle"
+    ],
+    "symbols": [
+      "star"
+    ]
+  },
+  {
+    "name": "Spain",
+    "code": "es",
+    "continent": "Europe",
+    "colours": [
+      "red",
+      "yellow"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "bicolor",
+      "stripes"
+    ],
+    "symbols": [
+      "coat-of-arms"
+    ]
+  },
+  {
+    "name": "Sri Lanka",
+    "code": "lk",
+    "continent": "Asia",
+    "colours": [
+      "maroon",
+      "yellow",
+      "green",
+      "orange"
+    ],
+    "layout": "solid",
+    "features": [
+      "border"
+    ],
+    "symbols": [
+      "lion",
+      "sword",
+      "bodhi-leaves"
+    ]
+  },
+  {
+    "name": "Sudan",
+    "code": "sd",
+    "continent": "Africa",
+    "colours": [
+      "red",
+      "white",
+      "black",
+      "green"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes",
+      "triangle"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Suriname",
+    "code": "sr",
+    "continent": "South America",
+    "colours": [
+      "green",
+      "white",
+      "red",
+      "yellow"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes"
+    ],
+    "symbols": [
+      "star"
+    ]
+  },
+  {
+    "name": "Sweden",
+    "code": "se",
+    "continent": "Europe",
+    "colours": [
+      "blue",
+      "yellow"
+    ],
+    "layout": "cross",
+    "features": [
+      "nordic-cross"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Switzerland",
+    "code": "ch",
+    "continent": "Europe",
+    "colours": [
+      "red",
+      "white"
+    ],
+    "layout": "cross",
+    "features": [
+      "cross"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Syria",
+    "code": "sy",
+    "continent": "Asia",
+    "colours": [
+      "red",
+      "white",
+      "black",
+      "green"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": [
+      "stars"
+    ]
+  },
+  {
+    "name": "Tajikistan",
+    "code": "tj",
+    "continent": "Asia",
+    "colours": [
+      "red",
+      "white",
+      "green",
+      "yellow"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": [
+      "crown",
+      "stars"
+    ]
+  },
+  {
+    "name": "Tanzania",
+    "code": "tz",
+    "continent": "Africa",
+    "colours": [
+      "green",
+      "blue",
+      "black",
+      "yellow"
+    ],
+    "layout": "diagonal",
+    "features": [
+      "diagonal"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Thailand",
+    "code": "th",
+    "continent": "Asia",
+    "colours": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Timor-Leste",
+    "code": "tl",
+    "continent": "Asia",
+    "colours": [
+      "red",
+      "yellow",
+      "black",
+      "white"
+    ],
+    "layout": "other",
+    "features": [
+      "triangle"
+    ],
+    "symbols": [
+      "star"
+    ]
+  },
+  {
+    "name": "Togo",
+    "code": "tg",
+    "continent": "Africa",
+    "colours": [
+      "green",
+      "yellow",
+      "red",
+      "white"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes",
+      "canton"
+    ],
+    "symbols": [
+      "star"
+    ]
+  },
+  {
+    "name": "Tonga",
+    "code": "to",
+    "continent": "Oceania",
+    "colours": [
+      "red",
+      "white"
+    ],
+    "layout": "canton",
+    "features": [
+      "canton"
+    ],
+    "symbols": [
+      "cross"
+    ]
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "code": "tt",
+    "continent": "North America",
+    "colours": [
+      "red",
+      "black",
+      "white"
+    ],
+    "layout": "diagonal",
+    "features": [
+      "diagonal"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Tunisia",
+    "code": "tn",
+    "continent": "Africa",
+    "colours": [
+      "red",
+      "white"
+    ],
+    "layout": "solid",
+    "features": [
+      "circle"
+    ],
+    "symbols": [
+      "crescent",
+      "star"
+    ]
+  },
+  {
+    "name": "Turkey",
+    "code": "tr",
+    "continent": "Asia",
+    "colours": [
+      "red",
+      "white"
+    ],
+    "layout": "solid",
+    "features": [],
+    "symbols": [
+      "crescent",
+      "star"
+    ]
+  },
+  {
+    "name": "Turkmenistan",
+    "code": "tm",
+    "continent": "Asia",
+    "colours": [
+      "green",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "layout": "solid",
+    "features": [
+      "vertical-stripe"
+    ],
+    "symbols": [
+      "crescent",
+      "stars",
+      "carpet-pattern"
+    ]
+  },
+  {
+    "name": "Tuvalu",
+    "code": "tv",
+    "continent": "Oceania",
+    "colours": [
+      "light-blue",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "layout": "canton",
+    "features": [
+      "canton",
+      "stars"
+    ],
+    "symbols": [
+      "union-jack",
+      "nine-stars"
+    ]
+  },
+  {
+    "name": "Uganda",
+    "code": "ug",
+    "continent": "Africa",
+    "colours": [
+      "black",
+      "yellow",
+      "red",
+      "white"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes"
+    ],
+    "symbols": [
+      "crane"
+    ]
+  },
+  {
+    "name": "Ukraine",
+    "code": "ua",
+    "continent": "Europe",
+    "colours": [
+      "blue",
+      "yellow"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "bicolor"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "United Arab Emirates",
+    "code": "ae",
+    "continent": "Asia",
+    "colours": [
+      "green",
+      "white",
+      "black",
+      "red"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes",
+      "canton"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "United Kingdom",
+    "code": "gb",
+    "continent": "Europe",
+    "colours": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "layout": "cross",
+    "features": [
+      "union-jack"
+    ],
+    "symbols": [
+      "crosses"
+    ]
+  },
+  {
+    "name": "United States",
+    "code": "us",
+    "continent": "North America",
+    "colours": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes",
+      "canton"
+    ],
+    "symbols": [
+      "stars"
+    ]
+  },
+  {
+    "name": "Uruguay",
+    "code": "uy",
+    "continent": "South America",
+    "colours": [
+      "white",
+      "blue",
+      "yellow"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes",
+      "canton"
+    ],
+    "symbols": [
+      "sun"
+    ]
+  },
+  {
+    "name": "Uzbekistan",
+    "code": "uz",
+    "continent": "Asia",
+    "colours": [
+      "blue",
+      "white",
+      "green",
+      "red"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes",
+      "crescent"
+    ],
+    "symbols": [
+      "crescent",
+      "stars"
+    ]
+  },
+  {
+    "name": "Vanuatu",
+    "code": "vu",
+    "continent": "Oceania",
+    "colours": [
+      "red",
+      "green",
+      "black",
+      "yellow",
+      "white"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes",
+      "triangle"
+    ],
+    "symbols": [
+      "boar-tusk",
+      "leaves"
+    ]
+  },
+  {
+    "name": "Vatican City",
+    "code": "va",
+    "continent": "Europe",
+    "colours": [
+      "yellow",
+      "white",
+      "red"
+    ],
+    "layout": "vertical",
+    "features": [
+      "bicolor"
+    ],
+    "symbols": [
+      "papal-keys",
+      "tiara"
+    ]
+  },
+  {
+    "name": "Venezuela",
+    "code": "ve",
+    "continent": "South America",
+    "colours": [
+      "yellow",
+      "blue",
+      "red",
+      "white"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "tricolor",
+      "stars"
+    ],
+    "symbols": [
+      "eight-stars"
+    ]
+  },
+  {
+    "name": "Vietnam",
+    "code": "vn",
+    "continent": "Asia",
+    "colours": [
+      "red",
+      "yellow"
+    ],
+    "layout": "solid",
+    "features": [
+      "star"
+    ],
+    "symbols": [
+      "star"
+    ]
+  },
+  {
+    "name": "Yemen",
+    "code": "ye",
+    "continent": "Asia",
+    "colours": [
+      "red",
+      "white",
+      "black"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": []
+  },
+  {
+    "name": "Zambia",
+    "code": "zm",
+    "continent": "Africa",
+    "colours": [
+      "green",
+      "red",
+      "black",
+      "orange"
+    ],
+    "layout": "solid",
+    "features": [],
+    "symbols": [
+      "eagle"
+    ]
+  },
+  {
+    "name": "Zimbabwe",
+    "code": "zw",
+    "continent": "Africa",
+    "colours": [
+      "green",
+      "yellow",
+      "red",
+      "black",
+      "white"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "stripes",
+      "triangle"
+    ],
+    "symbols": [
+      "bird"
+    ]
+  }
+]

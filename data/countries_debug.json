@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Afghanistan",
+    "code": "af",
+    "continent": "Asia",
+    "colours": [
+      "black",
+      "red",
+      "green"
+    ],
+    "layout": "vertical",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": [
+      "coat-of-arms"
+    ]
+  },
+  {
+    "name": "Albania",
+    "code": "al",
+    "continent": "Europe",
+    "colours": [
+      "red",
+      "black"
+    ],
+    "layout": "solid",
+    "features": [],
+    "symbols": [
+      "double-headed-eagle"
+    ]
+  },
+  {
+    "name": "Algeria",
+    "code": "dz",
+    "continent": "Africa",
+    "colours": [
+      "green",
+      "white",
+      "red"
+    ],
+    "layout": "vertical",
+    "features": [
+      "bicolor"
+    ],
+    "symbols": [
+      "crescent",
+      "star"
+    ]
+  },
+  {
+    "name": "Andorra",
+    "code": "ad",
+    "continent": "Europe",
+    "colours": [
+      "blue",
+      "yellow",
+      "red"
+    ],
+    "layout": "vertical",
+    "features": [
+      "tricolor"
+    ],
+    "symbols": [
+      "coat-of-arms"
+    ]
+  },
+  {
+    "name": "Angola",
+    "code": "ao",
+    "continent": "Africa",
+    "colours": [
+      "red",
+      "black",
+      "yellow"
+    ],
+    "layout": "horizontal",
+    "features": [
+      "bicolor"
+    ],
+    "symbols": [
+      "machete",
+      "star",
+      "gear"
+    ]
+  }
+]
