@@ -1,3 +1,11 @@
+function trackEvent(eventName, parameters = {}) {
+
+    if (typeof gtag === "function") {
+        gtag("event", eventName, parameters);
+    }
+
+}
+
 const flag = document.getElementById("flag");
 const answers = document.getElementById("answers");
 
@@ -570,7 +578,15 @@ function endExpertGame() {
 
     const accuracy =
         Math.round((score / totalFlags) * 100);
-		
+	
+	trackEvent("game_complete", {
+    mode: "expert",
+    score: score,
+    total_questions: totalFlags,
+    accuracy: accuracy,
+    highest_streak: highestStreak,
+    time_remaining: expertTime
+	});
 		
 	if (score > personalBest.expert) {
     personalBest.expert = score;
@@ -807,6 +823,14 @@ function endGame(){
     const percentage = Math.round(
         (score / TOTAL_QUESTIONS) * 100
     );
+	
+	trackEvent("game_complete", {
+        mode: currentMode,
+        score: score,
+        total_questions: TOTAL_QUESTIONS,
+        accuracy: percentage,
+        highest_streak: highestStreak
+    });
 	
 	gamesPlayed++;
 	averageScore = ((averageScore * (gamesPlayed - 1)) + score) / gamesPlayed;
